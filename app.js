@@ -42,3 +42,11 @@ page.classList.add("active");
 }
 
 }
+function openChannel(link){
+
+window.open(
+link,
+"_blank"
+);
+
+}
